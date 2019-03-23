@@ -1,5 +1,5 @@
 # Webinar-Links
-Links for Machine Learning, Data Science, Data Engineering links
+Links for Machine Learning, Data Science, Data Engineering
 
 * Best Practices Operationalizing Machine Learning and AI at Scale
 
